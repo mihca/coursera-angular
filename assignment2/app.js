@@ -47,6 +47,14 @@
                 quantity: 10
             },
             {
+                name: "Cheese",
+                quantity: 2
+            },
+            {
+                name: "Bread",
+                quantity: 1
+            },
+            {
                 name: "Milk",
                 quantity: 1
             }
